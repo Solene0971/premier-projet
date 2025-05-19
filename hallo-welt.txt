@@ -1,0 +1,5 @@
+
+    Créer un fichier hola-mundo.txt localement
+    Le mettre sous contrôle de version
+    Créer une nouvelle version sur le dépôt local avec ce fichier
+    Envoyer le tout sur GitHub avec la sous-commande push employée cette fois sans paramètre
